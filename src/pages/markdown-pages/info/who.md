@@ -7,7 +7,7 @@ twitter: "https://twitter.com/yhg8423"
 instagram: "https://www.instagram.com/hg_russ_yun/"
 git: "https://github.com/yhg8423"
 linkedin: "https://www.linkedin.com/in/yhg8423/"
-cv: ""
+cv: "https://www.dropbox.com/s/p95ywugu1bjb39f/Hyeonggeun_CV.pdf?dl=0"
 ---
 
 #### Summary
