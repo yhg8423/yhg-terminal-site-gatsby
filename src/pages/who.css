@@ -1,0 +1,23 @@
+a {
+    text-decoration: underline;
+}
+
+.who_result {
+    margin-top: 5px;
+}
+
+.who_result .who_html a {
+    color: #ffcc00;  
+}
+
+.who_result .who_html h4 {
+    margin-bottom: 10px;   
+}
+
+.who_result .who_html li {
+    margin-bottom: 5px;   
+}
+
+.who_result .who_html li ul {
+    margin-bottom: 15px;   
+}

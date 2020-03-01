@@ -1,0 +1,8 @@
+.menu_bar span {
+    font-size: 23px;
+    margin-right: 15px;
+}
+
+a:hover {
+    text-decoration: underline;
+}
