@@ -8,10 +8,11 @@
 import React from "react"
 import PropTypes from "prop-types"
 import { useStaticQuery, graphql } from "gatsby"
-
+import Helmet from "react-helmet"
 import Header from "./header"
 import Menu from "./menu"
 import "./css/layout.css"
+import favicon from "./../assets/favicon.ico";
 
 const Layout = ({ children }) => {
   const data = useStaticQuery(graphql`
@@ -26,6 +27,11 @@ const Layout = ({ children }) => {
 
   return (
     <>
+      <Helmet>
+        <meta charSet="utf-8" />
+        <title>Hyeonggeun's Terminal</title>
+        <link rel="shortcut icon" href={favicon} />
+      </Helmet>
       <Header siteTitle={data.site.siteMetadata.title} />
         <div>
           <Menu />
