@@ -37,3 +37,12 @@ Especially, I want to think about how to increase the interaction of people on t
     - Developer Intern
 - NAVER (July 2015 - Aug 2015)
     - Developer Intern
+
+
+#### Recent Press
+- 한국 10대, SNS서 잊힐 권리와 검색 안 될 자유를 찾다 [(Korean)](http://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=103&oid=469&aid=0000064052)
+- "상상을 현실로 만드는 소프트웨어... '꿈의 디딤돌'이죠" [(Korean)](https://news.chosun.com/site/data/html_dir/2015/03/29/2015032901897.html)
+- 네이버, SNS '하루' 만든 고등학생 개발자 지원 [(Korean)](http://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=105&oid=001&aid=0006956623)
+- "흑역사 지운다"…휘발성 SNS 개발한 17살 동갑내기 [(Korean)](http://www.newsis.com/ar_detail/view.html?ar_id=NISX20140704_0013026943&cID=10201&pID=10200)
+- 머릿속 아이디어, 포기 않고 10개월 걸려 구현 [(Korean)](http://www.hani.co.kr/arti/society/schooling/627624.html)
+- 중학생들이 만든 새로운 SNS '하루' [(Korean)](http://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0001958424)
