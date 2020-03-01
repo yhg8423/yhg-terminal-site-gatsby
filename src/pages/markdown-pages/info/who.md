@@ -27,10 +27,13 @@ Especially, I want to think about how to increase the interaction of people on t
 
 
 #### Experience
+- Companoid Labs (Jan 2019 - Current)
+    - Researcher
+    - Director: [Prof. Alan Jinkyu Jang](http://alanjang.com/)
 - KAIST Interaction Lab (KIXLAB) (Dec 2018 - Feb 2019, June 2019 - Aug 2019)
     - Research Intern
     - Director: [Prof. Juho Kim](http://juhokim.com/)
-- Companoid Labs (Jan 2018 - Feb 2018, Jan 2019 - Current)
+- Companoid Labs (Jan 2018 - Feb 2018)
     - Research Intern
     - Director: [Prof. Alan Jinkyu Jang](http://alanjang.com/)
 - Blocko (July 2017 - Aug 2017)
