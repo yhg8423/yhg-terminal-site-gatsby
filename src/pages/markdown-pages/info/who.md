@@ -12,7 +12,7 @@ cv: "https://www.dropbox.com/s/p95ywugu1bjb39f/Hyeonggeun_CV.pdf?dl=0"
 
 #### Summary
 > Hello, I am Hyeonggeun Yun who is an undergraduate student majoring in Transdisciplinary Studies at DGIST.
-My research interest is Human-Computer Interaction (HCI), Interaction at Scale, Human-AI Interaction, and Interactive Web.
+My research interests are Human-Computer Interaction (HCI), Interaction at Scale, Human-AI Interaction, and Interactive Web.
 Especially, I want to think about how to increase the interaction of people on the web. Also, I want to design a society where humans and artificial intelligence live together.
 
 
