@@ -1,24 +1,30 @@
 import React from "react"
-import { graphql } from "gatsby"
+import { graphql, Link } from "gatsby"
+import Layout from "../components/layout"
+import Command from "../components/command"
+import "./post.css"
 
-/*
-export default function Template({
-  data, // this prop will be injected by the GraphQL query below.
-}) {
-  const { markdownRemark } = data // data.markdownRemark holds your post data
-  const { frontmatter, html } = markdownRemark
+export default function Template({ data }) {
+  const { markdownRemark: { frontmatter, html } } = data;
+  console.log(data, html)
+  const tags = frontmatter.tags;
+
   return (
-    <div className="blog-post-container">
-      <div className="blog-post">
-        <h1>{frontmatter.title}</h1>
-        <h2>{frontmatter.date}</h2>
-        <div
-          className="blog-post-content"
-          dangerouslySetInnerHTML={{ __html: html }}
-        />
-      </div>
-    </div>
-  )
+    <Layout>
+        <br/>
+        <Command command={"vi " + frontmatter.title + " (" + frontmatter.date +")"}></Command>
+        <br/>
+        <div className="post">
+            <div>
+              <h1>{frontmatter.title}</h1>
+              <span style={{fontSize: "25px"}}>{frontmatter.subtitle}</span>
+            </div>
+            <br/>
+            <br/>
+            <div dangerouslySetInnerHTML={{ __html: html }}></div>
+        </div>
+    </Layout>
+  );
 }
 
 export const pageQuery = graphql`
@@ -26,11 +32,13 @@ export const pageQuery = graphql`
     markdownRemark(frontmatter: { path: { eq: $path } }) {
       html
       frontmatter {
-        date(formatString: "MMMM DD, YYYY")
+        date
         path
         title
+        subtitle
+        tags
+        category
       }
     }
   }
-`
-*/
+`;

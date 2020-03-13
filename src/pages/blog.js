@@ -4,17 +4,19 @@ import Layout from "../components/layout"
 import Command from "../components/command"
 //import './blog.css'
 
-const ProjectPage = () => {
-    /*
+const BlogPage = () => {
     const data = useStaticQuery(graphql`
         query {
-            allMarkdownRemark(filter: {frontmatter: { path: { eq: "/publications" } } }) {
+            allMarkdownRemark(filter: {frontmatter: { category: { eq: "blog" } } }) {
               edges {
                 node {
                     html
                     frontmatter {
                         path
-                        type
+                        title
+                        subtitle
+                        date
+                        tags
                     }
                 }
               }
@@ -23,14 +25,28 @@ const ProjectPage = () => {
     `)
 
     let edges = data.allMarkdownRemark.edges
-    */
+    
+    console.log(edges)
     return(
         <Layout>
             <br/>
             <Command command="ls -l blog"></Command>
             <br/>
+            {edges.map((node, i) => {
+                return (
+                    <div className="blog_posts">
+                        <span style={{fontSize: "25px", fontWeight: "bold"}}>{node.node.frontmatter.title}</span>
+                        <span style={{fontSize: "15px", fontWeight: "light", paddingLeft: "15px"}}>{node.node.frontmatter.date}</span>
+                        <span style={{fontSize: "15px", fontWeight: "light", paddingLeft: "15px"}}>#{node.node.frontmatter.tags}</span>
+                        <br/>
+                        <span style={{fontSize: "20px"}}>{node.node.frontmatter.subtitle}</span>
+                        <br/>                        
+                        <br/>
+                    </div>
+                )
+            })}
         </Layout>
     )
 }
 
-export default ProjectPage
+export default BlogPage
