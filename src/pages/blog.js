@@ -35,7 +35,7 @@ const BlogPage = () => {
             {edges.map((node, i) => {
                 return (
                     <div className="blog_posts">
-                        <span style={{fontSize: "25px", fontWeight: "bold"}}>{node.node.frontmatter.title}</span>
+                        <span style={{fontSize: "25px", fontWeight: "bold"}}><Link to={node.node.frontmatter.path}>{node.node.frontmatter.title}</Link></span>
                         <span style={{fontSize: "15px", fontWeight: "light", paddingLeft: "15px"}}>{node.node.frontmatter.date}</span>
                         <span style={{fontSize: "15px", fontWeight: "light", paddingLeft: "15px"}}>#{node.node.frontmatter.tags}</span>
                         <br/>
