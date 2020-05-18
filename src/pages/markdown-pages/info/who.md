@@ -17,6 +17,7 @@ Especially, I want to think about how to increase the interaction of people on t
 
 
 #### News
+- Our paper "Chatbot with Touch and Graphics: An Interaction of Users for Emotional Expression and Turn-taking" was also conditionally accepted to [CUI 2020 Posters & Demos](https://cui2020.com/posters-demos/)! (2020.05.15)
 - Our position paper "Chatbot with Touch and Graphics: An Interaction of Users for Emotional Expression and Turn-taking" was accepted to [CUI@CHI workshop](http://www.speechinteraction.org/CHI2020/) at [CHI 2020](https://chi2020.acm.org/)! (2020.02.26)
 - Our UGRP (Undergraduate Group Research Program) won an encouragement prize! (2020.01.16)
 - Summer internship at [KIXLAB (KAIST Interaction Lab)](https://www.kixlab.org/) (2019.06.27)
