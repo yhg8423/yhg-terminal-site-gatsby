@@ -107,4 +107,9 @@ Looking for more guidance? Full documentation for Gatsby lives [on the website](
 
 This is a personal website of Hyeonggeun using Gatsby.js
 
+![This is an index page of website](../../../images/website.png)
+
 You can see the website [here](https://www.hyeonggeun.com)
+
+This project is licensed under the MIT License - see the License.md file for details
+
