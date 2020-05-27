@@ -99,10 +99,12 @@ Looking for more guidance? Full documentation for Gatsby lives [on the website](
 <!-- AUTO-GENERATED-CONTENT:END -->
 
 <h1>
-  Terminal Design-based personal website of Hyeonggeun using Gatsby.js 
+  💻 Terminal Design-based personal website of Hyeonggeun using Gatsby.js 
   <a href="https://www.gatsbyjs.org">
     <img alt="Gatsby" src="https://www.gatsbyjs.org/monogram.svg" width="30" />
   </a>
 </h1>
 
 This is a personal website of Hyeonggeun using Gatsby.js
+
+You can see the website [here](https://www.hyeonggeun.com)
