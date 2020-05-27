@@ -98,13 +98,11 @@ Looking for more guidance? Full documentation for Gatsby lives [on the website](
 -->
 <!-- AUTO-GENERATED-CONTENT:END -->
 
-<h1 align="center">
+<h1>
   Terminal Design-based personal website of Hyeonggeun using Gatsby.js 
   <a href="https://www.gatsbyjs.org">
-    <img alt="Gatsby" src="https://www.gatsbyjs.org/monogram.svg" width="60" />
+    <img alt="Gatsby" src="https://www.gatsbyjs.org/monogram.svg" width="30" />
   </a>
 </h1>
-
-# Terminal Design-based personal website of Hyeonggeun using Gatsby.js
 
 This is a personal website of Hyeonggeun using Gatsby.js
