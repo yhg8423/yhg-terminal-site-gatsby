@@ -56,7 +56,7 @@ tags: "소셜"
 
 #### 클럽하우스는 어떻게 될까?
 
-![클럽하우스 메인 화면](../../../images/post-2-images/figure2.jpeg){: width="100" height="100"}
+![클럽하우스 메인 화면](../../../images/post-2-images/figure2.jpeg)
 <p style="text-align: center;">Fig 2. 클럽하우스 메인 화면</p>
 <br/>
 
