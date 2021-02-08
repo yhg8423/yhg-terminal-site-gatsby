@@ -1,7 +1,7 @@
 ---
 path: "/who"
 name: "Hyeonggeun Yun"
-email: "yhg8423@dgist.ac.kr / yhg8423@gmail.com"
+email: "yhg8423@gmail.com / yhg8423@dgist.ac.kr"
 facebook: "https://www.facebook.com/hyeonggeun.yun.3"
 twitter: "https://twitter.com/yhg8423"
 instagram: "https://www.instagram.com/hg_russ_yun/"
@@ -12,19 +12,20 @@ cv: "https://www.dropbox.com/s/p95ywugu1bjb39f/Hyeonggeun_CV.pdf?dl=0"
 
 #### Summary
 > Hello, I am Hyeonggeun Yun who is an undergraduate student majoring in Transdisciplinary Studies at DGIST.
-My research interests are Human-Computer Interaction (HCI), Interaction at Scale, Human-AI Interaction, and Interactive Web.
-Especially, I want to think about how to increase the interaction of people on the web. Also, I want to design a society where humans and artificial intelligence live together.
+My research interests are Human-Computer Interaction (HCI), Human-AI Interaction, AI-based Communication, Usable Privacy, Interaction at Scale, and Interactive Web.
+Especially, I want to design a society where humans and computers live together.
 
 
 #### News
-- Our paper "Chatbot with Touch and Graphics: An Interaction of Users for Emotional Expression and Turn-taking" was also conditionally accepted to [CUI 2020 Posters & Demos](https://cui2020.com/posters-demos/)! (2020.05.15)
+- Our UGRP (Undergraduate Group Research Program) won an excellent prize (2nd place)! (2021.02.03)
+- Our poster paper "Chatbot with Touch and Graphics: An Interaction of Users for Emotional Expression and Turn-taking" was also conditionally accepted to [CUI 2020 Posters & Demos](https://cui2020.com/posters-demos/)! (2020.05.15)
 - Our position paper "Chatbot with Touch and Graphics: An Interaction of Users for Emotional Expression and Turn-taking" was accepted to [CUI@CHI workshop](http://www.speechinteraction.org/CHI2020/) at [CHI 2020](https://chi2020.acm.org/)! (2020.02.26)
 - Our UGRP (Undergraduate Group Research Program) won an encouragement prize! (2020.01.16)
 - Summer internship at [KIXLAB (KAIST Interaction Lab)](https://www.kixlab.org/) (2019.06.27)
 - Our Work-in-Progress paper "Supporting Instruction of Formulaic Sequences Using Videos at Scale" was accepted to [L@S 2019](https://learningatscale.acm.org/)! (2019.05.02)
 - Winter internship at [KIXLAB (KAIST Interaction Lab)](https://www.kixlab.org/) (2018.12.26)
 - Taking a Summer Session at UC Berkeley (2018.06.18)
-- Winter internship at [Companoid Labs](http://companoidlabs.com/) (2018.01.02)
+- Winter internship at [Companoid Labs](http://companoid.io/) (2018.01.02)
 
 
 #### Experience
@@ -43,7 +44,7 @@ Especially, I want to think about how to increase the interaction of people on t
     - Developer Intern
 
 
-#### Recent Press
+#### Press
 - 한국 10대, SNS서 잊힐 권리와 검색 안 될 자유를 찾다 [(Korean)](http://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=103&oid=469&aid=0000064052)
 - "상상을 현실로 만드는 소프트웨어... '꿈의 디딤돌'이죠" [(Korean)](https://news.chosun.com/site/data/html_dir/2015/03/29/2015032901897.html)
 - 네이버, SNS '하루' 만든 고등학생 개발자 지원 [(Korean)](http://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=105&oid=001&aid=0006956623)
