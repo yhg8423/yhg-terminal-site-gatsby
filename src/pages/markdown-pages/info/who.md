@@ -11,12 +11,15 @@ cv: "https://www.dropbox.com/s/p95ywugu1bjb39f/Hyeonggeun_CV.pdf?dl=0"
 ---
 
 #### Summary
-> Hello, I am Hyeonggeun Yun who is an undergraduate student majoring in Transdisciplinary Studies at DGIST.
+> Hello, I am Hyeonggeun Yun who is a researcher at ADD(Agency for Defense Development).
+I received B.S degree in convergence engineering(major: computer science) from DGIST.
 My research interests are Human-Computer Interaction (HCI), Human-AI Interaction, AI-based Communication, Usable Privacy, Interaction at Scale, and Interactive Web.
-Especially, I want to design a society where humans and computers live together.
+Especially, I want to study a society where humans and computers live together.
 
 
 #### News
+- I started my research career at ADD(Agency for Defense Development) for my mandatory military service. (2021.06.01)
+- I received B.S degree in convergence engineering(major: computer science) from DGIST!
 - Our UGRP (Undergraduate Group Research Program) won an excellent prize (2nd place)! (2021.02.03)
 - Our poster paper "Chatbot with Touch and Graphics: An Interaction of Users for Emotional Expression and Turn-taking" was also conditionally accepted to [CUI 2020 Posters & Demos](https://cui2020.com/posters-demos/)! (2020.05.15)
 - Our position paper "Chatbot with Touch and Graphics: An Interaction of Users for Emotional Expression and Turn-taking" was accepted to [CUI@CHI workshop](http://www.speechinteraction.org/CHI2020/) at [CHI 2020](https://chi2020.acm.org/)! (2020.02.26)
@@ -28,9 +31,18 @@ Especially, I want to design a society where humans and computers live together.
 - Winter internship at [Companoid Labs](http://companoid.io/) (2018.01.02)
 
 
+#### Education
+- B.S. in Convergence Engineering, DGIST
+    - Mar 2017 - Feb 2021
+    - Majoring in Computer Science
+    - GPA: 3.99/4.3 (Magna Cum Laude)
+
+
 #### Experience
+- Agency for Defense Development (June 2021 - Current)
+    - Researcher, Lieutenant
 - Companoid Labs (Jan 2019 - Current)
-    - Researcher
+    - Researcher, Partner, & Cofounder
     - Director: [Prof. Alan Jinkyu Jang](http://alanjang.com/)
 - KAIST Interaction Lab (KIXLAB) (Dec 2018 - Feb 2019, June 2019 - Aug 2019)
     - Research Intern
