@@ -18,7 +18,7 @@ Especially, I want to study a society where humans and computers live together.
 
 
 #### News
-- I started my research career at ADD(Agency for Defense Development) for my mandatory military service. (2021.06.01)
+- I started my research career at [ADD(Agency for Defense Development)](http://www.add.re.kr) for my mandatory military service. (2021.06.01)
 - I received B.S degree in convergence engineering(major: computer science) from DGIST! (2021.02.17)
 - Our UGRP (Undergraduate Group Research Program) won an excellent prize (2nd place)! (2021.02.03)
 - Our poster paper "Chatbot with Touch and Graphics: An Interaction of Users for Emotional Expression and Turn-taking" was also conditionally accepted to [CUI 2020 Posters & Demos](https://cui2020.com/posters-demos/)! (2020.05.15)
