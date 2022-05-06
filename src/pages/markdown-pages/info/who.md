@@ -7,7 +7,7 @@ twitter: "https://twitter.com/yhg8423"
 instagram: "https://www.instagram.com/hg_russ_yun/"
 git: "https://github.com/yhg8423"
 linkedin: "https://www.linkedin.com/in/yhg8423/"
-cv: "https://www.dropbox.com/s/tr48xdopc1wnxfj/Hyeonggeun_CV_210801.pdf?dl=0"
+cv: "https://www.dropbox.com/s/ukocu1gcliaz0es/Hyeonggeun_CV_220507.pdf?dl=0"
 ---
 
 #### Summary
@@ -18,7 +18,8 @@ Especially, I want to study a society where humans and computers live together.
 
 
 #### News
-- I started my research career at [ADD(Agency for Defense Development)](http://www.add.re.kr) for my mandatory military service. (2021.06.01)
+- Our paper "Mine Yourself!: A Role-playing Privacy Tutorial in Virtual Reality Environment" was conditionally accepted to [CHI 2022 Late-Breaking Work](https://chi2022.acm.org/)! (2022.02.18)
+- I started my research career at [ADD (Agency for Defense Development)](http://www.add.re.kr) for my mandatory military service. (2021.06.01)
 - I received B.S degree (magna cum laude) in convergence engineering(major: computer science) from DGIST! (2021.02.17)
 - Our UGRP (Undergraduate Group Research Program) won an excellent prize (2nd place)! (2021.02.03)
 - Our poster paper "Chatbot with Touch and Graphics: An Interaction of Users for Emotional Expression and Turn-taking" was also conditionally accepted to [CUI 2020 Posters & Demos](https://cui2020.com/posters-demos/)! (2020.05.15)
@@ -41,6 +42,7 @@ Especially, I want to study a society where humans and computers live together.
 #### Experience
 - Agency for Defense Development (June 2021 - Current)
     - Researcher, Lieutenant
+    - Working @ Ground Technology Research Institute
 - Companoid Labs (Jan 2019 - Current)
     - Researcher, Partner, & Cofounder
     - Director: [Prof. Alan Jinkyu Jang](http://alanjang.com/)
