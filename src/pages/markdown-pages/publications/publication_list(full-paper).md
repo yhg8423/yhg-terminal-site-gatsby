@@ -3,4 +3,4 @@ path: "/publications"
 type: "Full Papers"
 ---
 
-- Younggeol Cho, <u>Hyeonggeun Yun</u>, Jinwon Lee, Arim Ha, and Jihyeok Yun. (2023). **GoonDAE: Denoising-Based Driver Assistance for Off-Road Teleoperation**, *IEEE Robotics and Automation Letters*. [[IEEE XPLORE](https://ieeexplore.ieee.org/document/10054527)]
+- Younggeol Cho, <u>Hyeonggeun Yun</u>, Jinwon Lee, Arim Ha, and Jihyeok Yun. (2023). **GoonDAE: Denoising-Based Driver Assistance for Off-Road Teleoperation**, *IEEE Robotics and Automation Letters (RA-L)*. [[IEEE XPLORE](https://ieeexplore.ieee.org/document/10054527)]
