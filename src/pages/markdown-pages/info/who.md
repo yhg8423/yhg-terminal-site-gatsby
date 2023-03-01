@@ -18,6 +18,7 @@ Especially, I want to study a society where humans and computers live together.
 
 
 #### News
+- Our paper "GoonDAE: Denoising-Based Driver Assistance for Off-Road Teleoperation" was conditionally accepted to [IEEE Robotics and Automation Letters (RA-L)](https://www.ieee-ras.org/publications/ra-l)! (2023.02.04)
 - Our paper "Mine Yourself!: A Role-playing Privacy Tutorial in Virtual Reality Environment" was conditionally accepted to [CHI 2022 Late-Breaking Work](https://chi2022.acm.org/)! (2022.02.18)
 - I started my research career at [ADD (Agency for Defense Development)](http://www.add.re.kr) for my mandatory military service. (2021.06.01)
 - I received B.S degree (magna cum laude) in convergence engineering(major: computer science) from DGIST! (2021.02.17)
