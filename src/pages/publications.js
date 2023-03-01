@@ -40,7 +40,7 @@ const ProjectPage = () => {
             })}
             <span style={{fontSize: "25px", fontWeight: "bold"}}>Posters & Workshop Papers</span><br/>
             {edges.map((node, i) => {
-                if(node.node.frontmatter.type === "Posters & Workshop Papers") {
+                if(node.node.frontmatter.type === "Late-Breaking Works, Posters & Workshop Papers") {
                     return (
                         <div className="publications_result">
                             <div className="publications_html" dangerouslySetInnerHTML={{ __html: node.node.html }}></div>
