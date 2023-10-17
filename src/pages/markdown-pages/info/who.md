@@ -24,17 +24,18 @@ Especially, I want to study a society where humans and computers live together.
 - Our paper "Mine Yourself!: A Role-playing Privacy Tutorial in Virtual Reality Environment" was conditionally accepted to [CHI 2022 Late-Breaking Work](https://chi2022.acm.org/)! (2022.02.18)
 - I started my research career at [ADD (Agency for Defense Development)](http://www.add.re.kr) for my mandatory military service. (2021.06.01)
 - I received B.S degree (magna cum laude) in convergence engineering (major: computer science) from DGIST! (2021.02.17)
-% - Our UGRP (Undergraduate Group Research Program) won an excellent prize (2nd place)! (2021.02.03)
-% - I joined [Companoid Labs](http://companoid.io/), which is a User Experience (UX) Research-based Company builder, as Co-founder, Researcher and Partner. (2020.12.11)
-% - Our poster paper "Chatbot with Touch and Graphics: An Interaction of Users for Emotional Expression and Turn-taking" was also conditionally accepted to [CUI 2020 Posters & Demos](https://cui2020.com/posters-demos/)! (2020.05.15)
-% - Our position paper "Chatbot with Touch and Graphics: An Interaction of Users for Emotional Expression and Turn-taking" was accepted to [CUI@CHI workshop](http://www.speechinteraction.org/CHI2020/) at [CHI 2020](https://chi2020.acm.org/)! (2020.02.26)
-% - Our UGRP (Undergraduate Group Research Program) won an encouragement prize! (2020.01.16)
-% - Summer internship at [KIXLAB (KAIST Interaction Lab)](https://www.kixlab.org/) (2019.06.27)
-% - Our Work-in-Progress paper "Supporting Instruction of Formulaic Sequences Using Videos at Scale" was accepted to [L@S 2019](https://learningatscale.acm.org/)! (2019.05.02)
-% - Winter internship at [KIXLAB (KAIST Interaction Lab)](https://www.kixlab.org/) (2018.12.26)
-% - Taking a Summer Session at UC Berkeley (2018.06.18)
-% - Winter internship at [Companoid Labs](http://companoid.io/) (2018.01.02)
-
+<!--
+- Our UGRP (Undergraduate Group Research Program) won an excellent prize (2nd place)! (2021.02.03)
+- I joined [Companoid Labs](http://companoid.io/), which is a User Experience (UX) Research-based Company builder, as Co-founder, Researcher and Partner. (2020.12.11)
+- Our poster paper "Chatbot with Touch and Graphics: An Interaction of Users for Emotional Expression and Turn-taking" was also conditionally accepted to [CUI 2020 Posters & Demos](https://cui2020.com/posters-demos/)! (2020.05.15)
+- Our position paper "Chatbot with Touch and Graphics: An Interaction of Users for Emotional Expression and Turn-taking" was accepted to [CUI@CHI workshop](http://www.speechinteraction.org/CHI2020/) at [CHI 2020](https://chi2020.acm.org/)! (2020.02.26)
+- Our UGRP (Undergraduate Group Research Program) won an encouragement prize! (2020.01.16)
+- Summer internship at [KIXLAB (KAIST Interaction Lab)](https://www.kixlab.org/) (2019.06.27)
+- Our Work-in-Progress paper "Supporting Instruction of Formulaic Sequences Using Videos at Scale" was accepted to [L@S 2019](https://learningatscale.acm.org/)! (2019.05.02)
+- Winter internship at [KIXLAB (KAIST Interaction Lab)](https://www.kixlab.org/) (2018.12.26)
+- Taking a Summer Session at UC Berkeley (2018.06.18)
+- Winter internship at [Companoid Labs](http://companoid.io/) (2018.01.02)
+-->
 
 #### Education
 - B.S. in Convergence Engineering, DGIST
