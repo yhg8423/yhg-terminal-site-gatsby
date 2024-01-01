@@ -3,7 +3,7 @@ category: "blog"
 path: "/blog/post-3"
 title: "(2024년에) 2023년 돌아보기"
 subtitle: "2023년 나는 어떻게 살았나"
-date: "2024/1/1"
+date: "2024/01/01"
 tags: "회고"
 ---
 
