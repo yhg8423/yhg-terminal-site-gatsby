@@ -7,7 +7,8 @@ import Command from "../components/command"
 const BlogPage = () => {
     const data = useStaticQuery(graphql`
         query {
-            allMarkdownRemark(filter: {frontmatter: { category: { eq: "blog" } } }, sort: { order: DESC, fields: frontmatter___date }) {
+            allMarkdownRemark(filter: {frontmatter: { category: { eq: "blog" } } }
+             sort: { order: DESC, fields: frontmatter___date }) {
               edges {
                 node {
                     html
