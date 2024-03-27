@@ -3,6 +3,8 @@ path: "/publications"
 type: "Late-Breaking Works, Posters & Workshop Papers"
 ---
 
+- <u>Hyeonggeun Yun</u>. (2024). **Interaction as Explanation: A User Interaction-based Method for Explaining Image Classification Models**, *Under Review*.
+
 - Junsu Lim\*, <u>Hyeonggeun Yun\*</u>, Auejin Ham\*, and Sunjun Kim. (2022). **Mine Yourself!: A Role-playing Privacy Tutorial in Virtual Reality Environment**, *ACM CHI 2022 (Late-Breaking Work)*. \*Authors are equally contributed. [[ACM DL](https://dl.acm.org/doi/abs/10.1145/3491101.3519773)]
 
 - <u>Hyeonggeun Yun</u>, Auejin Ham, Jin Kim, Taeyeong Kim, Jeongeun Kim, Haechan Lee, Jongrae Park, and Jinkyu Jang. (2020). **Chatbot with Touch and Graphics: An Interaction of Users for Emotional Expression and Turn-taking**, *ACM CUI 2020 (Posters & Demos)*. [[ACM DL](https://dl.acm.org/doi/abs/10.1145/3405755.3406147)]

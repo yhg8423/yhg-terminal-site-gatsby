@@ -7,17 +7,20 @@ twitter: "https://twitter.com/yhg8423"
 instagram: "https://www.instagram.com/hg_russ_yun/"
 git: "https://github.com/yhg8423"
 linkedin: "https://www.linkedin.com/in/yhg8423/"
-cv: "https://www.dropbox.com/scl/fi/og8b31z7hz4jb6rt2aeze/Hyeonggeun_CV_231017.pdf?rlkey=vgwliahmri1f50m4m12yg3f25&dl=0"
+cv: "https://www.dropbox.com/scl/fi/q0kdepzgwhjw0uzafaikx/Hyeonggeun_CV_240327.pdf?rlkey=51g0jh0q5w2w61i5r68cql8mq&dl=0"
+cv_developer: "https://www.dropbox.com/scl/fi/onbgwvxkhyeuqybf81thw/Hyeonggeun_CV-SW-_240327.pdf?rlkey=wq7jk4wovf8t5ycpgav3hi7he&dl=0"
 ---
 
 #### Summary
 > Hello, I am Hyeonggeun Yun who is a researcher at ADD (Agency for Defense Development).
 I received Bachelor of Science degree in convergence engineering(major: computer science) from DGIST.
-My research interests are Human-Computer Interaction (HCI), Human-AI Interaction, Computational Interaction, and Usable Privacy.
-Especially, I want to study a society where humans and computers live together.
+My research interests are Human-Computer Interaction (HCI), Human-AI Interaction, Computational Interaction, Computational Driver Assistance and Teleoperated Driving.
+<!-- Especially, I want to study a society where humans and computers live together. -->
 
 
 #### News
+- Submit a paper to the Electronics Letters (2024.03.23)
+- Submit a paper to the 3rd Explainable AI for Computer Vision (XAI4CV) Workshop at CVPR 2024 (2024.03.17)
 - Our paper "Generative Model-based Simulation of Driver Behavior when Using Control Input Interface for Teleoperated Driving in Unstructured Canyon Terrains" was conditionally accepted to [TAROS 2023](https://taros-conference.org/)! (2023.07.06)
 - Our paper "Driving with Black Box Assistance: Teleoperated Driving Interface Design Guidelines for Computational Driver Assistance Systems in Unstructured Environments" was conditionally accepted to [ACM AutomotiveUI 2023](https://www.auto-ui.org/23/)! (2023.06.07)
 - Our paper "GoonDAE: Denoising-Based Driver Assistance for Off-Road Teleoperation" was conditionally accepted to [IEEE Robotics and Automation Letters (RA-L)](https://www.ieee-ras.org/publications/ra-l)! (2023.02.04)
