@@ -2,7 +2,7 @@
 path: "/projects"
 name: "Chatbot with Touch and Graphics: An Interaction of Users for Emotional Expression and Turn-taking"
 type: "research"
-status: "ongoing"
+status: "finished"
 ---
 
 - <u>Hyeonggeun Yun</u>, Auejin Ham, Jin Kim, Taeyeong Kim, Jeongeun Kim, Haechan Lee, Jongrae Park, Jinkyu Jang
