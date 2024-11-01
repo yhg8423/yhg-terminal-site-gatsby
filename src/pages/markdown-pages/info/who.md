@@ -12,22 +12,23 @@ cv_developer: "https://www.dropbox.com/scl/fi/onbgwvxkhyeuqybf81thw/Hyeonggeun_C
 ---
 
 #### Summary
-> Hello, I am Hyeonggeun Yun who is a researcher at ADD (Agency for Defense Development).
-I received Bachelor of Science degree in convergence engineering(major: computer science) from DGIST.
-My research interests are Human-Computer Interaction (HCI), Human-AI Interaction, Computational Interaction, Computational Driver Assistance and Teleoperated Driving.
+> Hello, I am Hyeonggeun Yun who is a Co-founder, Partner, & CTO at Companoid Labs, a UX-innovative holding company. I received a Bachelor of Science degree in convergence engineering(major: computer science) from DGIST.
+My research interests are Human-Computer Interaction (HCI), Human-AI Interaction, and Computational Interaction.
 <!-- Especially, I want to study a society where humans and computers live together. -->
 
 
 #### News
+- I returned to the [Companoid Labs](http://companoid.io/), which is a User Experience(UX)-innovative holding company, as a Co-founder, Partner, and CTO. (2024.08.01)
+- Our paper "Interaction as Explanation: A User Interaction-based Method for Explaining Image Classification Models" was accepted to [IJCAI 2024 Workshop on Explainable Artificial Intelligence (XAI)]([https://taros-conference.org/](https://sites.google.com/view/xai2024/))! (2024.06.05)
+- I finished my mandatory military service at at [ADD (Agency for Defense Development)](http://www.add.re.kr). (2024.05.31)
 - Submit a paper to the Electronics Letters (2024.03.23)
-- Submit a paper to the 3rd Explainable AI for Computer Vision (XAI4CV) Workshop at CVPR 2024 (2024.03.17)
 - Our paper "Generative Model-based Simulation of Driver Behavior when Using Control Input Interface for Teleoperated Driving in Unstructured Canyon Terrains" was conditionally accepted to [TAROS 2023](https://taros-conference.org/)! (2023.07.06)
 - Our paper "Driving with Black Box Assistance: Teleoperated Driving Interface Design Guidelines for Computational Driver Assistance Systems in Unstructured Environments" was conditionally accepted to [ACM AutomotiveUI 2023](https://www.auto-ui.org/23/)! (2023.06.07)
 - Our paper "GoonDAE: Denoising-Based Driver Assistance for Off-Road Teleoperation" was conditionally accepted to [IEEE Robotics and Automation Letters (RA-L)](https://www.ieee-ras.org/publications/ra-l)! (2023.02.04)
 - Our paper "Mine Yourself!: A Role-playing Privacy Tutorial in Virtual Reality Environment" was conditionally accepted to [CHI 2022 Late-Breaking Work](https://chi2022.acm.org/)! (2022.02.18)
+<!--
 - I started my research career at [ADD (Agency for Defense Development)](http://www.add.re.kr) for my mandatory military service. (2021.06.01)
 - I received B.S degree (magna cum laude) in convergence engineering (major: computer science) from DGIST! (2021.02.17)
-<!--
 - Our UGRP (Undergraduate Group Research Program) won an excellent prize (2nd place)! (2021.02.03)
 - I joined [Companoid Labs](http://companoid.io/), which is a User Experience (UX) Research-based Company builder, as Co-founder, Researcher and Partner. (2020.12.11)
 - Our poster paper "Chatbot with Touch and Graphics: An Interaction of Users for Emotional Expression and Turn-taking" was also conditionally accepted to [CUI 2020 Posters & Demos](https://cui2020.com/posters-demos/)! (2020.05.15)
@@ -48,11 +49,13 @@ My research interests are Human-Computer Interaction (HCI), Human-AI Interaction
 
 
 #### Experience
-- Agency for Defense Development (June 2021 - Current)
+- Companoid Labs (August 2024 - Current)
+    - Co-founder, Researcher, Partner, & CTO
+- Agency for Defense Development (June 2021 - May 2024)
     - Researcher, Lieutenant
     - Working @ Ground Technology Research Institute
-- Companoid Labs (Jan 2019 - Current)
-    - Researcher, Partner, & Cofounder
+- Companoid Labs (Jan 2019 - March 2021)
+    - Co-founder, Researcher, & Partner
     - Director: [Prof. Alan Jinkyu Jang](http://alanjang.com/)
 - KAIST Interaction Lab (KIXLAB) (Dec 2018 - Feb 2019, June 2019 - Aug 2019)
     - Research Intern
@@ -67,6 +70,7 @@ My research interests are Human-Computer Interaction (HCI), Human-AI Interaction
 
 
 #### Press
+- 컴퍼니빌더 컴패노이드랩스, 기능별 자회사 설립…"역할 전문화" [(Korean)](https://n.news.naver.com/mnews/article/008/0005087093?sid=101)
 - 한국 10대, SNS서 잊힐 권리와 검색 안 될 자유를 찾다 [(Korean)](http://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=103&oid=469&aid=0000064052)
 - "상상을 현실로 만드는 소프트웨어... '꿈의 디딤돌'이죠" [(Korean)](https://news.chosun.com/site/data/html_dir/2015/03/29/2015032901897.html)
 - 네이버, SNS '하루' 만든 고등학생 개발자 지원 [(Korean)](http://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=105&oid=001&aid=0006956623)
