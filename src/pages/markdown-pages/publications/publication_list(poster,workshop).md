@@ -3,7 +3,7 @@ path: "/publications"
 type: "Late-Breaking Works, Posters & Workshop Papers"
 ---
 
-- <u>Hyeonggeun Yun</u>. (2024). **Interaction as Explanation: A User Interaction-based Method for Explaining Image Classification Models**, *Under Review*.
+- <u>Hyeonggeun Yun</u>. (2024). **Interaction as Explanation: A User Interaction-based Method for Explaining Image Classification Models**, *IJCAI 2024 Workshop on Explainable Artificial Intelligence (XAI)*. [[PDF](https://arxiv.org/pdf/2404.09828)] [Workshop Website](https://sites.google.com/view/xai2024/)
 
 - Junsu Lim\*, <u>Hyeonggeun Yun\*</u>, Auejin Ham\*, and Sunjun Kim. (2022). **Mine Yourself!: A Role-playing Privacy Tutorial in Virtual Reality Environment**, *ACM CHI 2022 (Late-Breaking Work)*. \*Authors are equally contributed. [[ACM DL](https://dl.acm.org/doi/abs/10.1145/3491101.3519773)]
 
