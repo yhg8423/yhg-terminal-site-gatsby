@@ -18,7 +18,7 @@ My research interests are Human-Computer Interaction (HCI), Human-AI Interaction
 
 
 #### News
-- I took third place in the [Concordia Contest](https://www.cooperativeai.com/contests/concordia-2024) at [NeurIPS2024](https://neurips.cc/Conferences/2024)! (2024.12.15)
+- I took third place in the [Concordia Contest](https://www.cooperativeai.com/contests/concordia-2024) (competition track) at [NeurIPS2024](https://neurips.cc/Conferences/2024)! (2024.12.15)
 - I returned to the [Companoid Labs](http://companoid.io/), which is a User Experience(UX)-innovative holding company, as a Co-founder, Partner, and CTO. (2024.08.01)
 - Our paper "Interaction as Explanation: A User Interaction-based Method for Explaining Image Classification Models" was accepted to [IJCAI 2024 Workshop on Explainable Artificial Intelligence (XAI)]([https://taros-conference.org/](https://sites.google.com/view/xai2024/))! (2024.06.05)
 - I finished my mandatory military service at at [ADD (Agency for Defense Development)](http://www.add.re.kr). (2024.05.31)
