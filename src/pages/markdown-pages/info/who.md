@@ -7,17 +7,18 @@ twitter: "https://twitter.com/yhg8423"
 instagram: "https://www.instagram.com/hg_russ_yun/"
 git: "https://github.com/yhg8423"
 linkedin: "https://www.linkedin.com/in/yhg8423/"
-cv: "https://www.dropbox.com/scl/fi/q0kdepzgwhjw0uzafaikx/Hyeonggeun_CV_240327.pdf?rlkey=51g0jh0q5w2w61i5r68cql8mq&dl=0"
+cv: "https://www.dropbox.com/scl/fi/jw63ugod0txibweofp60a/Hyeonggeun_CV_short_version.pdf?rlkey=9h7mdesnb1nr2tb5xx09uepnc&dl=0"
 cv_developer: "https://www.dropbox.com/scl/fi/onbgwvxkhyeuqybf81thw/Hyeonggeun_CV-SW-_240327.pdf?rlkey=wq7jk4wovf8t5ycpgav3hi7he&dl=0"
 ---
 
 #### Summary
-> Hello, I am Hyeonggeun Yun who is a Co-founder, Partner, & CTO at Companoid Labs, a UX-innovative holding company. I received a Bachelor of Science degree in convergence engineering(major: computer science) from DGIST.
+> Hello, I am Hyeonggeun Yun who is a Co-founder, Partner, & CTO at Companoid Labs, a UX-innovative holding company. I received a Bachelor of Science degree in convergence engineering(major: computer science) from DGIST.
 My research interests are Human-Computer Interaction (HCI), Human-AI Interaction, and Computational Interaction.
 <!-- Especially, I want to study a society where humans and computers live together. -->
 
 
 #### News
+- I took third place in the [Concordia Contest](https://www.cooperativeai.com/contests/concordia-2024) at [NeurIPS2024](https://neurips.cc/Conferences/2024)! (2024.12.15)
 - I returned to the [Companoid Labs](http://companoid.io/), which is a User Experience(UX)-innovative holding company, as a Co-founder, Partner, and CTO. (2024.08.01)
 - Our paper "Interaction as Explanation: A User Interaction-based Method for Explaining Image Classification Models" was accepted to [IJCAI 2024 Workshop on Explainable Artificial Intelligence (XAI)]([https://taros-conference.org/](https://sites.google.com/view/xai2024/))! (2024.06.05)
 - I finished my mandatory military service at at [ADD (Agency for Defense Development)](http://www.add.re.kr). (2024.05.31)
