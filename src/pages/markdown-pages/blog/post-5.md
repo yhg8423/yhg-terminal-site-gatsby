@@ -53,7 +53,7 @@ Companoid Labs에 합류한 후에는 다른 스타트업의 컴퍼니 빌딩 �
 
 매년 다짐 중에 하나가 1년에 1편 이상의 연구를 페이퍼 형태로 작성하는 것이었는데, 올해도 2편이나 작성을 해서 개인적으로 만족스럽다. 다만, 아직 연구가 끝나지 않고, 중간 단계의 연구를 Summary한 경우가 많아서 이러한 부분은 항상 아쉽다. 2025년에는 좀 더 완성된 형태로, 임팩트를 발휘할 수 있는 연구를 선보이고 싶다.
 
-<img src="../../../images/post-5-images/figure2.png" alt="Google Scholar citation" style="zoom:5%;" />
+<img src="../../../images/post-5-images/figure2.png" alt="Google Scholar citation" style="zoom:3%;" />
 
 <p style="text-align: center;">Fig 4. Google Scholar 인용 횟수. 언젠가는 인용수가 확 늘어나는 임팩트 있는 연구를 할 수 있길...</p>
 
