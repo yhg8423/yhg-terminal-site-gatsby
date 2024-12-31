@@ -19,7 +19,7 @@ tags: "회고"
 - 과제 관련 내부 보고서 9건, 프로그램 저작권 등록 9건 작성
 - 연구 성과물 및 논문 7건 (국내 학술대회 2건, 국제 학술대회 3건, SCI 저널 2건) 게재 및 발표
 
-개인적으로 연구소에서 과학기술전문사관 및 현역 연구원이 하기에 가장 좋은 일을 할 수 있었다고 생각한다. 그 과정에는 개인적 노력 뿐만 아니라 다른 분들의 협업, 피드백, 배려, 조언 등이 있었고, 그 덕분에 이렇게 좋은 성과를 거둘 수 있었다. 무엇보다 학부 졸업을 한 지 얼마 안 된 나에게 많은 부분의 일을 위임하고 맡겨주시고, 관련된 기술 구현과 설계를 전담하도록 해주셔서 아직까지도 감사한 마음이다. 일과 연구에 대한 배움뿐만 아니라 앞으로 살아가면서 다른 사람과 어떻게 소통하고 협업해야할지, 그리고 서로간의 배려가 얼마나 중요한지 깨달을 수 있는 시간이었다.  
+개인적으로 연구소에서 과학기술전문사관 및 현역 연구원이 할 수 있는 가장 좋은 일을 했다고 생각한다. 그 과정에는 개인적 노력 뿐만 아니라 다른 분들의 협업, 피드백, 배려, 조언 등이 있었고, 그 덕분에 이렇게 좋은 성과를 거둘 수 있었다. 무엇보다 학부 졸업을 한 지 얼마 안 된 나에게 많은 부분의 일을 위임하고 맡겨주시고, 관련된 기술 구현과 설계를 전담하도록 해주셔서 아직까지도 감사한 마음이다. 일과 연구에 대한 배움뿐만 아니라 앞으로 살아가면서 다른 사람과 어떻게 소통하고 협업해야할지, 그리고 서로 간의 배려가 얼마나 중요한지 깨달을 수 있는 시간이었다.  
 
 <img src="../../../images/post-5-images/figure4.jpg" alt="Research Officer for National Defense Photo" style="zoom:15%;" />
 
@@ -37,7 +37,7 @@ Companoid Labs에 합류한 후에는 다른 스타트업의 컴퍼니 빌딩 �
 
 물론 내부 자회사 빌딩 뿐만 아니라 다른 업무도 하고 있다. 이번에 [CIT](https://www.companoid.io/cit)에서는 원데이칼리지(One Day College)라는 프로그램을 런칭 했는데, 거기서 [원데이 디스커버리(One Day Discovery)](https://www.companoid.io/event-details/cit-odd-dealing-with-ai-generated-content-flood-and-meaningful-interaction)라는 프로그램을 열어 모더레이터로서 운영을 해보기도 했고, [HCI 칼리지콘 2024](https://www.companoid.io/cit-special-meetup/hci-collegecon-2024)에서 패널로 내 생각을 나누기도 했다. 자회사 빌딩을 위한 다양한 컨셉을 모색하면서 내부 리서치를 위한 개발을 하기도 했다. 뿐만 아니라 국내 최대 규모의 스타트업 행사인 [COMEUP 2024](https://www.comeup.org/)에서 투자사로 참가하여 투자자 부스를 열기도 하는 등 컴퍼니 빌더로서의 일부 업무도 수행했다. 내년에는 이번 경험을 바탕으로 UX 리서치를 위한 솔루션 개발, 컴퍼니 빌딩 업무에도 전문성을 발휘해보고 싶다.
 
-<img src="../../../images/post-5-images/figure3.jpg" alt="Companoid Labs Comeup 2024 Booth" style="zoom:15%;" />
+<img src="../../../images/post-5-images/figure3.jpg" alt="Companoid Labs Comeup 2024 Booth" style="zoom:8%;" />
 
 <p style="text-align: center;">Fig 2. 컴패노이드 랩스의 투자사 부스 사진</p>
 
@@ -49,11 +49,11 @@ Companoid Labs에 합류한 후에는 다른 스타트업의 컴퍼니 빌딩 �
 
 <p style="text-align: center;">Fig 3. Concordia Contest @NeurIPS 2024 발표</p>
 
-논문 작성 뿐만 아니라 이번에는 인공지능 및 머신러닝 분야의 최대 규모 국제 학술대회인 [NeurIPS 2024](https://neurips.cc/Conferences/2024)의 경진대회(competition)에 참가했다. ["The Concordia Contest: Advancing the Cooperative Intelligence of Language Agents"](https://www.cooperativeai.com/contests/concordia-2024)라는 경진대회였고, Cooperative AI Foundation과 Google Deepmind가 주관하고 후원하였다. 해당 경진대회는 Google Deepmind에서 개발한 [Concordia 프레임워크](https://github.com/google-deepmind/concordia)를 활용하여 텍스트 기반의 시뮬레이션 환경에서 협력 지능(Cooperative Intelligence)을 발전시키는 언어 모델 기반 단일 에이전트 설계에 도전하는 대회인데, 운 좋게도 여기서 Top 5 파이널 리스트에 오르고, 최종 3위의 성과를 거두게 되었다. 덕분에 NeurIPS 2024가 열리는 캐나다 밴쿠버에 가서 발표도 할 수 있었으며, 에이전트의 상호작용과 관련한 여러 생각도 할 수 있었다. 해당 경진대회에 대한 내용은 Companoid Labs의 [Spotlight](https://www.companoid.io/spotlight-post/cooperation-and-interaction-of-agents-in-neurips) 포스트에서 자세히 소개하고 있으니 참고해봐도 좋을 듯하다.
+논문 작성 뿐만 아니라 이번에는 인공지능 및 머신러닝 분야의 최대 규모 국제 학술대회인 [NeurIPS 2024](https://neurips.cc/Conferences/2024)의 경진대회(competition)에 참가했다. ["The Concordia Contest: Advancing the Cooperative Intelligence of Language Agents"](https://www.cooperativeai.com/contests/concordia-2024)라는 경진대회였고, Cooperative AI Foundation과 Google Deepmind가 주관하고 후원하였다. 해당 경진대회는 Google Deepmind에서 개발한 [Concordia 프레임워크](https://github.com/google-deepmind/concordia)를 활용하여 텍스트 기반의 시뮬레이션 환경에서 협력 지능(Cooperative Intelligence)을 발전시키는 언어 모델 기반 단일 에이전트 설계에 도전하는 대회인데, 운 좋게도 여기서 Top 5 파이널 리스트에 오르고, 최종 3위의 성과를 거두게 되었다. 덕분에 NeurIPS 2024가 열리는 캐나다 밴쿠버에 가서 발표도 할 수 있었으며, 에이전트의 상호작용과 관련한 여러 생각도 할 수 있었다. 해당 경진대회에 대한 내용은 Companoid Labs의 [Spotlight  포스트](https://www.companoid.io/spotlight-post/cooperation-and-interaction-of-agents-in-neurips)에서 자세히 소개하고 있으니 참고해봐도 좋을 듯하다.
 
 매년 다짐 중에 하나가 1년에 1편 이상의 연구를 페이퍼 형태로 작성하는 것이었는데, 올해도 2편이나 작성을 해서 개인적으로 만족스럽다. 다만, 아직 연구가 끝나지 않고, 중간 단계의 연구를 Summary한 경우가 많아서 이러한 부분은 항상 아쉽다. 2025년에는 좀 더 완성된 형태로, 임팩트를 발휘할 수 있는 연구를 선보이고 싶다.
 
-<img src="../../../images/post-5-images/figure2.png" alt="Google Scholar citation" style="zoom:10%;" />
+<img src="../../../images/post-5-images/figure2.png" alt="Google Scholar citation" style="zoom:5%;" />
 
 <p style="text-align: center;">Fig 4. Google Scholar 인용 횟수. 언젠가는 인용수가 확 늘어나는 임팩트 있는 연구를 할 수 있길...</p>
 
@@ -62,6 +62,6 @@ Companoid Labs에 합류한 후에는 다른 스타트업의 컴퍼니 빌딩 �
 
 이제 2024년이 얼마남지 않았고, 2025년이 다가온다. 2024년에 참 많은 일이 있어서 다사다난했고, 연말에는 여러 우울한 일도 많았다. 새해에는 더 이상 큰 비극 없이 무탈했으면 한다. 
 
-원래 목표를 세우고 사는 사람이 아닌지라, 아직 2025년 목표는 딱히 없다. 다만, 2025년에는 개인적으로도 성장하고, 우리 회사도 성장하는 한 해가 되었으면 좋겠다. 2024년에 가져간 변화가 2025년에는 결실로 다가오는 한 해가 되길 바란다. 또한, 2024년에 만난 새로운 인연, 그리고 이전부터 이어져온 오래된 인연 모두 좋은 한 해가 되면 좋겠다. 
+원래 목표를 세우고 사는 사람이 아닌지라, 아직 2025년 목표는 딱히 없다. 다만, 2025년에는 개인적으로도 성장하고, 우리 회사도 성장하는 한 해가 되었으면 좋겠다. 2024년에 가져간 변화가 2025년에는 결실로 다가오는 한 해가 되길 바란다. 또한, 2024년에 만난 새로운 인연, 그리고 이전부터 이어져온 오래된 인연 모두 행복한 새해가 되면 좋겠다. 
 
 다들 2025년에는 모두 행복하고, 건강한 한 해 되세요!
