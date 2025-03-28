@@ -18,6 +18,7 @@ My research interests are Human-Computer Interaction (HCI), Human-AI Interaction
 
 
 #### News
+- Our paper "UX Remix: Improving Measurement Item Design Process Using Large Language Models and Prior Literature" was accepted to [Meta-HCI Workshop](https://meta-hci.github.io/) on [CHI 2025](https://chi2025.acm.org/)! (2025.03.21)
 - I took a third place in the [Concordia Contest](https://www.cooperativeai.com/contests/concordia-2024) (competition track) at [NeurIPS2024](https://neurips.cc/Conferences/2024)! (2024.12.15)
 - I returned to the [Companoid Labs](http://companoid.io/), which is a User Experience(UX)-innovative holding company, as a Co-founder, Partner, and CTO. (2024.08.01)
 - Our paper "Interaction as Explanation: A User Interaction-based Method for Explaining Image Classification Models" was accepted to [IJCAI 2024 Workshop on Explainable Artificial Intelligence (XAI)](https://sites.google.com/view/xai2024/)! (2024.06.05)
