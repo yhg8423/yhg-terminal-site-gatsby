@@ -3,7 +3,7 @@ path: "/publications"
 type: "Full Papers"
 ---
 
-- <u>Hyeonggeun Yun</u>. (2024). **Forward to the Future: A Deep Learning-based Approach to Mitigate Control Transmission Delay of Teleoperated Driving in Unstructured Environments**, *Under Review*.
+- <u>Hyeonggeun Yun</u>. (2024). **Forward to the Future: A Deep Learning-based Approach to Mitigate Control Transmission Delay of Teleoperated Driving in Unstructured Environments**, *IET Electronics Letters*. [[Wiley](https://ietresearch.onlinelibrary.wiley.com/doi/10.1049/ell2.70338)]
 
 - <u>Hyeonggeun Yun</u>, Younggeol Cho, Arim Ha, and Jihyeok Yun. (2023). **Driving with Black Box Assistance: Teleoperated Driving Interface Design Guidelines for Computational Driver Assistance Systems in Unstructured Environments**, *ACM AutomotiveUI 2023*. [[ACM DL](https://dl.acm.org/doi/fullHtml/10.1145/3580585.3607169)]
 
