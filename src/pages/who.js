@@ -35,8 +35,8 @@ const WhoPage = () => {
                 <span>
                     <a href={data.markdownRemark.frontmatter.facebook}>Facebook</a> / <a href={data.markdownRemark.frontmatter.twitter}>Twitter</a> / 
                     <a href={data.markdownRemark.frontmatter.instagram}> Instagram</a> / <a href={data.markdownRemark.frontmatter.git}>Git</a> /
-                    <a href={data.markdownRemark.frontmatter.linkedin}> Linkedin</a> / <a href={data.markdownRemark.frontmatter.cv}>CV (Researcher)</a> / 
-{/*<a href={data.markdownRemark.frontmatter.cv_developer}> CV (Developer)</a> */}
+                    <a href={data.markdownRemark.frontmatter.linkedin}> Linkedin</a> / <a href={data.markdownRemark.frontmatter.cv}>CV (Researcher)</a> {/* / 
+<a href={data.markdownRemark.frontmatter.cv_developer}> CV (Developer)</a> */}
                 </span><br/>
                 <br/>
                 <div className="who_html" dangerouslySetInnerHTML={{ __html: data.markdownRemark.html }}></div>
