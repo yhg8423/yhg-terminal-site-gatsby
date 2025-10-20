@@ -20,6 +20,7 @@ const WhoPage = () => {
                 linkedin
                 cv
                 cv_developer
+                google_scholar
               }
             }
         }
@@ -33,9 +34,10 @@ const WhoPage = () => {
                 <span style={{fontSize: "25px"}}>{data.markdownRemark.frontmatter.name}</span><br/>
                 <span>{data.markdownRemark.frontmatter.email}</span><br/>
                 <span>
+                    <a href={data.markdownRemark.frontmatter.cv}>CV</a> / <a href={data.markdownRemark.frontmatter.google_scholar}>Google Scholar</a> / 
                     <a href={data.markdownRemark.frontmatter.facebook}>Facebook</a> / <a href={data.markdownRemark.frontmatter.twitter}>Twitter</a> / 
                     <a href={data.markdownRemark.frontmatter.instagram}> Instagram</a> / <a href={data.markdownRemark.frontmatter.git}>Git</a> /
-                    <a href={data.markdownRemark.frontmatter.linkedin}> Linkedin</a> / <a href={data.markdownRemark.frontmatter.cv}>CV (Researcher)</a> {/* / 
+                    <a href={data.markdownRemark.frontmatter.linkedin}> Linkedin</a> {/* / 
 <a href={data.markdownRemark.frontmatter.cv_developer}> CV (Developer)</a> */}
                 </span><br/>
                 <br/>
