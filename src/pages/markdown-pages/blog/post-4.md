@@ -7,4 +7,4 @@ date: "2024/12/27"
 tags: "연구"
 ---
 
-<meta http-equiv="refresh" content="0; url=https://www.companoid.io/spotlight-post/cooperation-and-interaction-of-agents-in-neurips" />
+<meta http-equiv="refresh" content="0; url=https://www.companoidlabs.com/spotlight/cooperation-and-interaction-of-agents-in-neurips" />

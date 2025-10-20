@@ -7,4 +7,4 @@ date: "2025/01/07"
 tags: "연구"
 ---
 
-<meta http-equiv="refresh" content="0; url=https://www.companoid.io/spotlight-post/how-to-deal-with-ai-generated-content-flood-and-meaningful-interaction" />
+<meta http-equiv="refresh" content="0; url=https://www.companoidlabs.com/spotlight/how-to-deal-with-ai-generated-content-flood-and-meaningful-interaction" />

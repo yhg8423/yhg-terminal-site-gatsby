@@ -7,4 +7,4 @@ date: "2025/05/12"
 tags: "연구"
 ---
 
-<meta http-equiv="refresh" content="0; url=https://www.companoid.io/spotlight-post/future-of-ai-interaction-in-chi-2025" />
+<meta http-equiv="refresh" content="0; url=https://www.companoidlabs.com/spotlight/future-of-ai-interaction-in-chi-2025" />
