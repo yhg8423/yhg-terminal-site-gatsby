@@ -19,6 +19,7 @@ My research interests are Human-Computer Interaction (HCI), Human-AI Interaction
 
 
 #### News
+- The paper, particpated as a Concordia Contest third place winner, was accepted to [NeurIPS 2025](https://neurips.cc) Datasets & Benchmarks Track! (2025.09.19)
 - My final paper from Agency for Defense Development, "Forward to the Future: A Deep Learning-based Approach to Mitigate Control Transmission Delay of Teleoperated Driving in Unstructured Environments" was accepted to [IET Electronics Letters](https://ietresearch.onlinelibrary.wiley.com/journal/1350911x)! (2025.06.10)
 - I will attend [CHI 2025](https://chi2025.acm.org/) to present our work [UX Remix](https://arxiv.org/abs/2504.09169)! (2025.04.25) 
 - Our paper "UX Remix: Improving Measurement Item Design Process Using Large Language Models and Prior Literature" was accepted to [Meta-HCI Workshop](https://meta-hci.github.io/) on [CHI 2025](https://chi2025.acm.org/)! (2025.03.21)
