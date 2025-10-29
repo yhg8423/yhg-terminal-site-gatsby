@@ -13,17 +13,18 @@ google_scholar: "https://scholar.google.com/citations?user=qh55CiUAAAAJ"
 ---
 
 #### Summary
-> Hello, I am Hyeonggeun Yun who is a Co-founder, Partner, & CTO at Companoid Labs, a UX-innovative holding company. I received a Bachelor of Science degree in convergence engineering (major: computer science) from DGIST.
+> Hello, I am Hyeonggeun Yun who is a Co-founder, Partner, & CTO at Companoid Labs, a UX-innovative holding company. I am also working as a Co-founder & CPO at Herbert Computer, Inc. I received a Bachelor of Science degree in convergence engineering (major: computer science) from DGIST.
 My research interests are Human-Computer Interaction (HCI), Human-AI Interaction, and Computational Interaction.
 <!-- Especially, I want to study a society where humans and computers live together. -->
 
 
 #### News
-- The paper, particpated as a Concordia Contest third place winner, was accepted to [NeurIPS 2025](https://neurips.cc) Datasets & Benchmarks Track! (2025.09.19)
+- The paper, "Evaluating Generalization Capabilities of LLM-Based Agents in Mixed-Motive Scenarios Using Concordia", particpated as a [Concordia Contest](https://www.cooperativeai.com/contests/concordia-2024) third place winner, was accepted to [NeurIPS 2025](https://neurips.cc) Datasets & Benchmarks Track! (2025.09.19)
+- I have co-founded Herbert Computer, Inc. and assumed the role of CPO! (2025.09.01)
 - My final paper from Agency for Defense Development, "Forward to the Future: A Deep Learning-based Approach to Mitigate Control Transmission Delay of Teleoperated Driving in Unstructured Environments" was accepted to [IET Electronics Letters](https://ietresearch.onlinelibrary.wiley.com/journal/1350911x)! (2025.06.10)
 - I will attend [CHI 2025](https://chi2025.acm.org/) to present our work [UX Remix](https://arxiv.org/abs/2504.09169)! (2025.04.25) 
 - Our paper "UX Remix: Improving Measurement Item Design Process Using Large Language Models and Prior Literature" was accepted to [Meta-HCI Workshop](https://meta-hci.github.io/) on [CHI 2025](https://chi2025.acm.org/)! (2025.03.21)
-- I took a third place in the [Concordia Contest](https://www.cooperativeai.com/contests/concordia-2024) (competition track) at [NeurIPS2024](https://neurips.cc/Conferences/2024)! (2024.12.15)
+- I took a third place in the [Concordia Contest](https://www.cooperativeai.com/contests/concordia-2024) (competition track) at [NeurIPS 2024](https://neurips.cc/Conferences/2024)! (2024.12.15)
 - I returned to the [Companoid Labs](http://companoid.io/), which is a User Experience(UX)-innovative holding company, as a Co-founder, Partner, and CTO. (2024.08.01)
 - Our paper "Interaction as Explanation: A User Interaction-based Method for Explaining Image Classification Models" was accepted to [IJCAI 2024 Workshop on Explainable Artificial Intelligence (XAI)](https://sites.google.com/view/xai2024/)! (2024.06.05)
 - I finished my mandatory military service at [ADD (Agency for Defense Development)](http://www.add.re.kr). (2024.05.31)
@@ -55,7 +56,7 @@ My research interests are Human-Computer Interaction (HCI), Human-AI Interaction
 
 
 #### Experience
-- Herbert Computer, Inc.
+- Herbert Computer, Inc. (Sep 2025 - Current)
     - Co-founder & CPO
 - Companoid Labs (August 2024 - Current)
     - Co-founder, Researcher, Partner, & CTO
