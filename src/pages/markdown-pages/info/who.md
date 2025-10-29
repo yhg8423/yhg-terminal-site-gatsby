@@ -56,7 +56,7 @@ My research interests are Human-Computer Interaction (HCI), Human-AI Interaction
 
 #### Experience
 - Herbert Computer, Inc.
-    - Co-founder
+    - Co-founder & CPO
 - Companoid Labs (August 2024 - Current)
     - Co-founder, Researcher, Partner, & CTO
 - Agency for Defense Development (June 2021 - May 2024)
