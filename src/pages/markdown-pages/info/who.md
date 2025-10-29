@@ -13,7 +13,7 @@ google_scholar: "https://scholar.google.com/citations?user=qh55CiUAAAAJ"
 ---
 
 #### Summary
-> Hello, I am Hyeonggeun Yun who is a Co-founder, Partner, & CTO at Companoid Labs, a UX-innovative holding company. I am also working as a Co-founder & CPO at Herbert Computer, Inc. I received a Bachelor of Science degree in convergence engineering (major: computer science) from DGIST.
+> Hello, I am Hyeonggeun Yun who is a Co-founder, Chief Partner, & CTO at Companoid Labs, a UX-innovative holding company. I am also working as a Co-founder & CPO at Herbert Computer, Inc. I received a Bachelor of Science degree in convergence engineering (major: computer science) from DGIST.
 My research interests are Human-Computer Interaction (HCI), Human-AI Interaction, and Computational Interaction.
 <!-- Especially, I want to study a society where humans and computers live together. -->
 
@@ -59,7 +59,7 @@ My research interests are Human-Computer Interaction (HCI), Human-AI Interaction
 - Herbert Computer, Inc. (Sep 2025 - Current)
     - Co-founder & CPO
 - Companoid Labs (August 2024 - Current)
-    - Co-founder, Researcher, Partner, & CTO
+    - Co-founder, Chief Partner, & CTO
 - Agency for Defense Development (June 2021 - May 2024)
     - Researcher, Lieutenant
     - Working @ Ground Technology Research Institute
