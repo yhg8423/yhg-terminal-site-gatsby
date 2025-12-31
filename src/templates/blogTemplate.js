@@ -20,7 +20,7 @@ export default function Template({ data }) {
           </Helmet>
         )}
         <br/>
-        <Command command={"vi " + frontmatter.title + " (" + frontmatter.date +")"}></Command>
+        <Command command={"vim " + frontmatter.title + " (" + frontmatter.date +")"}></Command>
         <br/>
         <div className="post">
             <div>
