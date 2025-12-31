@@ -19,6 +19,8 @@ My research interests are Human-Computer Interaction (HCI), Human-AI Interaction
 
 
 #### News
+- I won 2nd prize in the [Kakao Impact](https://www.kakaoimpact.org/) and [Brian Impact](https://brianimpact.org/)'s [AI_TOP_100 contest](https://aitop100.org/), placing in the Top 3 among 3,000 participants. (2025.11.22)
+
 - The paper, "Evaluating Generalization Capabilities of LLM-Based Agents in Mixed-Motive Scenarios Using Concordia", particpated as a [Concordia Contest](https://www.cooperativeai.com/contests/concordia-2024) third place winner, was accepted to [NeurIPS 2025](https://neurips.cc) Datasets & Benchmarks Track! (2025.09.19)
 - I have co-founded Herbert Computer, Inc. and assumed the role of CPO! (2025.09.01)
 - My final paper from Agency for Defense Development, "Forward to the Future: A Deep Learning-based Approach to Mitigate Control Transmission Delay of Teleoperated Driving in Unstructured Environments" was accepted to [IET Electronics Letters](https://ietresearch.onlinelibrary.wiley.com/journal/1350911x)! (2025.06.10)
