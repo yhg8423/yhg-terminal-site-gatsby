@@ -46,7 +46,7 @@ Herbert Computer의 일부 비전과 컨셉을 푼 [논문](https://arxiv.org/ab
 24년 회고에도 작성했듯이 매년 1편 이상의 연구를 페이퍼 형태로 작성하는 것이 목표인데, 올해도 일단 달성을 한 것 같아서 만족스럽다. [Google Scholar](https://scholar.google.com/citations?user=qh55CiUAAAAJ&hl=ko&authuser=1) 인용 횟수도 작년 대비 20회 늘어서 54회로 50회가 넘었다. 항상 하는 생각이지만 2026년에는 좀 더 완성된 형태로, 임팩트를 발휘할 수 있는 연구를 선보이고 싶다.
 특히 Herbert Computer 차원에서 진행할 수 있는 연구가 무궁무진하기 때문에 실제 비즈니스 및 프로덕트 임팩트로 연결될 수 있는 연구를 해야겠다는 마음을 다시 한 번 먹는다.
 
-<div style="width: 30%; margin: 0 auto;">
+<div style="width: 50%; margin: 0 auto;">
 
 ![Google Scholar citation](../../../images/post-8-images/figure1.png)
 
@@ -63,7 +63,7 @@ Herbert Computer의 일부 비전과 컨셉을 푼 [논문](https://arxiv.org/ab
 
 AI TOP 100 대회 [수상자 명단](https://www.kakaoimpact.org/news/view?atclId=239&recommend=0)과 [문제](https://challenge.aitop100.org/)는 각각의 링크에서 확인할 수 있다.
 
-<div style="width: 30%; margin: 0 auto;">
+<div style="width: 60%; margin: 0 auto;">
 
 ![AI Top 100 대회 수상](../../../images/post-8-images/figure2.jpg)
 
@@ -85,7 +85,7 @@ AI TOP 100 대회 [수상자 명단](https://www.kakaoimpact.org/news/view?atclI
 - 올해 초에 하스스톤을 오랜만에 좀 했는데, 10년전에는 못했던 전설을 달성했다. 가끔씩 삼국지 14를 하면서 삼국지 인물의 처세술에 대해서도 다시 한 번 배우게 된다.
 - 더 이상 무슨 일이 있었는지 잘 기억이 안난다... 생각나면 추가해야겠다.
 
-<div style="width: 30%; margin: 0 auto;">
+<div style="width: 60%; margin: 0 auto;">
 
 ![수익 상위 5% 인증](../../../images/post-8-images/figure3.png)
 
@@ -100,7 +100,7 @@ AI TOP 100 대회 [수상자 명단](https://www.kakaoimpact.org/news/view?atclI
 
 다들 2026년에는 모두 행복하고, 건강한 한 해 되세요! (사진은 [무병장수 기원 인사 제조기](https://greetzzal.com/)로 만들었습니다. 많은 관심 부탁드립니다.)
 
-<div style="width: 30%; margin: 0 auto;">
+<div style="width: 60%; margin: 0 auto;">
 
 ![무병장수 기원 인사 제조기](../../../images/post-8-images/figure4.png)
 
