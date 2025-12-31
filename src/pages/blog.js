@@ -18,7 +18,6 @@ const BlogPage = () => {
                         subtitle
                         date
                         tags
-                        thumbnail
                     }
                 }
               }
